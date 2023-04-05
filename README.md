@@ -1,2 +1,2 @@
 # preposal
-final project proposal
+final project preposal
